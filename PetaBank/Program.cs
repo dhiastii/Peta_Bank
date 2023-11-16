@@ -4,10 +4,10 @@ namespace PetaBank
 {
     public class BankAccount
     {
-        private readonly string m_customerName;
-        private double m_balance;
+        public readonly string m_customerName;
+        public double m_balance;
 
-        private BankAccount() { }
+        public BankAccount() { }
 
         public BankAccount(string customerName, double balance)
         {
