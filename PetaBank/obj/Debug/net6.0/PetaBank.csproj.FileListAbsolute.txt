@@ -1,0 +1,15 @@
+C:\Users\dhias\source\repos\PetaBank\PetaBank\bin\Debug\net6.0\PetaBank.exe
+C:\Users\dhias\source\repos\PetaBank\PetaBank\bin\Debug\net6.0\PetaBank.deps.json
+C:\Users\dhias\source\repos\PetaBank\PetaBank\bin\Debug\net6.0\PetaBank.runtimeconfig.json
+C:\Users\dhias\source\repos\PetaBank\PetaBank\bin\Debug\net6.0\PetaBank.dll
+C:\Users\dhias\source\repos\PetaBank\PetaBank\bin\Debug\net6.0\PetaBank.pdb
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.csproj.AssemblyReference.cache
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.AssemblyInfoInputs.cache
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.AssemblyInfo.cs
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.csproj.CoreCompileInputs.cache
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.dll
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\refint\PetaBank.dll
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.pdb
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\PetaBank.genruntimeconfig.cache
+C:\Users\dhias\source\repos\PetaBank\PetaBank\obj\Debug\net6.0\ref\PetaBank.dll
