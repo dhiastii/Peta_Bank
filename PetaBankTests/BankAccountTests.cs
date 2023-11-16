@@ -11,34 +11,21 @@ namespace PetaBank.Tests
     [TestClass()]
     public class BankAccountTests
     {
-        [TestMethod()]
-        public void BankAccountTest()
+        [TestMethod]
+        public void Debit_WithValidAmount_UpdatesBalance()
         {
-            Assert.Fail();
-        }
+            // Arrange
+            double beginningBalance = 11.99;
+            double debitAmount = 4.55;
+            double expected = 7.44;
+            BankAccount account = new BankAccount("Dhiasti Putri", beginningBalance);
 
-        [TestMethod()]
-        public void BankAccountTest1()
-        {
-            Assert.Fail();
-        }
+            // Act
+            account.Debit(debitAmount);
 
-        [TestMethod()]
-        public void DebitTest()
-        {
-            Assert.Fail();
-        }
-
-        [TestMethod()]
-        public void CreditTest()
-        {
-            Assert.Fail();
-        }
-
-        [TestMethod()]
-        public void MainTest()
-        {
-            Assert.Fail();
+            // Assert
+            double actual = account.Balance;
+            Assert.AreEqual(expected, actual, 0.001, "Account not debited correctly");
         }
     }
 }
